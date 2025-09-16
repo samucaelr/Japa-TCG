@@ -48,28 +48,34 @@ main {
 }
 
 section {
-    color: #4d1414;
+    color: #ff0000;
     border: 1px solid;
-    background-color: #4d1414;
+    background-color: #ff0000;
     padding-top: 4px;
     border-radius: 10px;
 }
 
 section div {
-    background-color: #d89c9c;
+    background-color: #ffffff;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
 }
 
-h2 {
+.P {
+    text-decoration: none;
+    font-size: 70%;
+    color: #ff0000ad;
+}
 
+h2 {
+    font-family: "Stick", sans-serif;
     letter-spacing: -0.47px;
 }
 
 .parceiros {
     font-family: "Stick", sans-serif;
-    color: #250d0d;
+    color: #ff0000;
     font-weight: bolder;
     font-size: 110%;
     ;
@@ -77,7 +83,7 @@ h2 {
 
 p {
     letter-spacing: -0.18px;
-    color: #250d0d;
+    color: #ff0000;
 }
 
 ul {
